@@ -8,7 +8,7 @@
 
 ➡️ I am currently learning Spring Boot.
 
-➡️ I aspire to become a DevOps Engineer.
+➡️ I aspire to become a Backend Developer.
 
 ➡️ I particularly enjoy tackling complex problems using algorithms and data structures.
 
