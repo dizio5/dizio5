@@ -1,9 +1,5 @@
 <h1>Hey there 👋, I'm Facundo Avila</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=26&pause=1000&color=4FF71D&width=435&lines=Computer+Engineering+student" alt="Typing SVG" /></a>
-
-## About me:
-
 ➡️ I'm passionate about low-level C programming, especially for microcontrollers and memory management.
 
 ➡️ I am currently learning Spring Boot.
