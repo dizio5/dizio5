@@ -1,9 +1,5 @@
 <h1>Hey there 👋, I'm Facundo Avila</h1>
 
-➡️ I'm passionate about low-level C programming, especially for microcontrollers and memory management.
-
-➡️ I am currently learning Spring Boot.
-
 ➡️ I aspire to become a Backend Developer.
 
 ➡️ I particularly enjoy tackling complex problems using algorithms and data structures.
