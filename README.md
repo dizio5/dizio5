@@ -6,7 +6,7 @@
 
 ➡️ I am a big fan of the Linux ecosystem and I run Arch, btw.
 
-## Current stack:
+## Tech stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   
