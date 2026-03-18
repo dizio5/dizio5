@@ -1,6 +1,6 @@
 <h1>Hey there 👋, I'm Facundo Avila</h1>
 
-➡️ I aspire to become a Backend Developer.
+➡️ I aspire to become a Backend Engineer.
 
 ➡️ I particularly enjoy tackling complex problems using algorithms and data structures.
 
