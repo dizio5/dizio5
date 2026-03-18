@@ -1,3 +1,11 @@
+<h1>Hey there 👋, I'm Facundo Avila</h1>
+
+➡️ I aspire to become a Backend Developer.
+
+➡️ I particularly enjoy tackling complex problems using algorithms and data structures.
+
+➡️ I am a big fan of the Linux ecosystem and I run Arch, btw.
+
 ## Tech stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
